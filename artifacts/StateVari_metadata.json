@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "location",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "value",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"state-variables.sol": "StateVari"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"state-variables.sol": {
+			"keccak256": "0xc34ef8bcff9a4e7577fe8e3430afb1b8e81e99b270deba4af88061ab0d0dc900",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://9d377ca10285d595df1e40a14663e68f7c3f02b2e3d891ed54273a1c50e55a11",
+				"dweb:/ipfs/Qmc4BaamZ4w14E8QVy58aSzZdpJvZqWAGU8jN68h7AhDau"
+			]
+		}
+	},
+	"version": 1
+}

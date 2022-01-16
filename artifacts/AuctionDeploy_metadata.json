@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "ownerA",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"AuctionDeploy.sol": "AuctionDeploy"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"AuctionDeploy.sol": {
+			"keccak256": "0xdd1e0bdf1d34b0b0e421e7723caf5f622f6118c4b83b089cb1e5ce9242b1149b",
+			"urls": [
+				"bzz-raw://c19ff44fecd25e77cf0c64c37c59dec10a472037aa2ee316f28320471a2b6f6b",
+				"dweb:/ipfs/QmZowHge3JfoRDc46Mj8s6Lb6Ux9CDp3SuU9VsSsqowuco"
+			]
+		}
+	},
+	"version": 1
+}
